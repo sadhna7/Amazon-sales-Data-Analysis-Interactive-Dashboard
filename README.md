@@ -37,6 +37,6 @@ To analyze Amazon sales data and create an interactive dashboard that helps trac
 - Customers preferred prepaid payments over Cash on Delivery(COD).
 
 ## Dataset
-The Excel workbook contains the raw data, cleaned data, pivot tables, formulas and the interactive dashboard used in this project.
+The Project workbook includes the Raw Data, Cleaned Data, Pivot Tables and the Interactive Dashboard used for analysis.
 
   
